@@ -1,0 +1,101 @@
+ID	Value
+htd1	One\CD gets\VBZ Moksha\NNP with\IN a\DT visit\NN to\TO the\DT Saptapuris\NNPS !\.
+htd2	Pilgrimage\NN is\VBZ of\IN utmost\JJ importance\NN in\IN Hinduism\NNP .\.
+htd3	Although\IN all\PDT the\DT pilgrimages\NNS are\VBP major\JJ and\CC important\JJ ,\, there\EX is\VBZ a\DT great\JJ importance\NN and\CC acceptance\NN of\IN the\DT seven\CD places\NNS .\.
+htd4	All\DT of\IN these\DT seven\CD religious\JJ places\NNS are\VBP described\VBN as\IN the\DT Seven\NNP Places\NNPS or\CC Saptpuris\NNPS in\IN the\DT scriptures\NNS .\.
+htd5	It\PRP has\VBZ been\VBN stated\VBN that\IN a\DT view\NN of\IN the\DT Saptapuris\NNP in\IN the\DT Chaturmas\NNP is\VBZ worth\JJ providing\VBG Moksha\NNP for\IN .\.
+htd6	Its\PRP$ name\NN is\VBZ Banaras\NNP or\CC Varanasi\NNP also\RB .\.
+htd7	This\DT is\VBZ a\DT famous\JJ abode\NN of\IN Lord\NNP Shiva\NNP .\.
+htd8	7\CD miles\NNS away\RB from\IN the\DT Mughal\NNP Sarai\NNP Station\NNP on\IN the\DT main\JJ railway\NN line\NN going\VBG from\IN Mughal\NNP Sarai\NNP to\TO Amritsar\NNP and\CC Dehradun\NNP there\EX is\VBZ Kashi\NNP and\CC 4\CD miles\NNS ahead\RB from\IN it\PRP there\EX is\VBZ Banaras\NNP Cantonment\NNP Station\NNP .\.
+htd9	A\DT direct\JJ line\NN from\IN the\DT Prayag\NNP Station\NNP of\IN Allahabad\NNP also\RB goes\VBZ to\TO Banaras\NNP Cantonment\NNP through\IN Kashi\NNP .\.
+htd10	One\CD line\NN from\IN Bhatni\NNP and\CC another\DT from\IN Chhapra\NNP of\IN the\DT Northeastern\NNP Railway\NNP goes\VBZ up\RP to\TO Allahabad\NNP City\NNP .\.
+htd11	One\CD can\MD go\VB to\TO the\DT Cantonment\NNP through\IN Banaras\NNP City\NNP with\IN this\DT route\NN too\RB .\.
+htd12	Ganges\NNP ,\, the\DT purgator\NN of\IN the\DT fallen\VBN ,\, enters\VBZ the\DT plains\NNS leaving\VBG mountainous\JJ areas\NNS in\IN Haridwar\NNP .\.
+htd13	That\DT is\VBZ why\WRB Haridwar\NNP is\VBZ also\RB called\VBN the\DT Gate\NN of\IN the\DT Ganges\NNP .\.
+htd14	A\DT crowd\NN of\IN devotees\NNS engulf\VBP Haridwar\NNP during\IN the\DT time\NN of\IN daily\JJ prayer\NN in\IN the\DT evening\NN .\.
+htd15	The\DT scene\NN of\IN floating\VBG chain\NN of\IN diyas\NNS looks\VBZ spectacular\JJ .\.
+htd16	The\DT station\NN is\VBZ on\IN the\DT main\JJ line\NN of\IN Northern\NNP Railway\NNP going\VBG from\IN Mughal\NNP Sarai\NNP to\TO Amritsar\NNP .\.
+htd17	One\CD line\NN has\VBZ gone\VBN from\IN Luxar\NNP to\TO Haridwar\NNP .\.
+htd18	In\IN ancient\JJ times\NNS the\DT Pitamah\NNP Brahma\NNP had\VBD done\VBN difficult\JJ penance\NN to\TO see\VB Mother\NNP Bhagawati\NNP .\.
+htd19	Then\RB Mahalaxmi\NNP had\VBD appeared\VBN before\IN him\PRP with\IN a\DT lotus\NN in\IN her\PRP$ hand\NN .\.
+htd20	Chengalpat\NNP is\VBZ situated\VBN at\IN a\DT distance\NN of\IN 35\CD miles\NNS from\IN Chennai\NNP on\IN the\DT main\JJ line\NN of\IN the\DT Southern\NNP Railway\NNP going\VBG from\IN Chennai\NNP to\TO Dhanushkoti\NNP .\.
+htd21	One\CD line\NN goes\VBZ to\TO Arkonam\NNP from\IN Chengalpat\NNP .\.
+htd22	Kanjivaram\NNP Station\NNP is\VBZ on\IN the\DT line\NN going\VBG to\TO Arkonam\NNP from\IN Chengalpat\NNP Station\NNP .\.
+htd23	Though\IN the\DT name\NN of\IN the\DT station\NN is\VBZ Kanjivaram\NNP ,\, the\DT name\NN of\IN the\DT city\NN is\VBZ Kanchipuram\NNP .\.
+htd24	Ayodhya\NNP is\VBZ the\DT holy\JJ city\NN of\IN the\DT avatar\NN of\IN Lord\NNP Rama\NNP .\.
+htd25	Ayodhya\NNP is\VBZ situated\VBN at\IN the\DT banks\NNS of\IN the\DT sacred\JJ river\NN Sarayu\NNP .\.
+htd26	Ayodhya\NNP Station\NNP is\VBZ at\IN a\DT distance\NN of\IN 128\CD miles\NNS from\IN the\DT Mughal\NNP Sarai\NNP Station\NNP of\IN the\DT Northern\NNP Railway\NNP 's\POS Mughal\NNP Sarai-Lucknow\NNP line\NN .\.
+htd27	Inhabited\VBN on\IN the\DT banks\NNS of\IN Shipra\NNP or\CC Kshipra\NNP river\NN ,\, Ujjain\NNP City\NNP is\VBZ purgator\NN of\IN the\DT fallen\VBN .\.
+htd28	It\PRP is\VBZ said\VBD that\IN the\DT anxiety\NN of\IN death\NN does\VBZ not\RB exist\VB on\IN offering\VBG greetings\NNS to\TO the\DT Mahakaal\NNP in\IN Ujjain\NNP .\.
+htd29	One\CD line\NN goes\VBZ to\TO Ujjain\NNP from\IN the\DT Bhopal\NNP Station\NNP of\IN the\DT Central\NNP Railway\NNP 's\POS Mumbai-Bhopal-Delhi\NNP line\NN .\.
+htd30	One\CD broad\JJ gauge\NN has\VBZ also\RB gone\VBN to\TO Ujjain\NNP from\IN the\DT Nagda\NNP Station\NNP of\IN the\DT Western\NNP Railway\NNP 's\POS Mumbai-Kota-Delhi\NNP line\NN .\.
+htd31	One\CD line\NN has\VBZ also\RB gone\VBN to\TO Ujjain\NNP from\IN the\DT Mau\NNP Station\NNP of\IN the\DT above\RB mentioned\VBN line\NN .\.
+htd32	Dwarka\NNP is\VBZ also\RB a\DT Dhaam\NNP among\IN the\DT Chaar\NNP Dhaams\NNP .\.
+htd33	Lord\NNP Krishna\NNP had\VBD specially\RB settled\VBN this\DT amidst\NN the\DT sea\NN .\.
+htd34	Situated\VBN on\IN the\DT Western\NNP Railway\NNP 's\POS Surendranagar-Okha\NNP port\NN line\NN this\DT city\NN is\VBZ a\DT coastal\JJ station\NN .\.
+htd35	This\DT holy\JJ city\NN is\VBZ Mathura\NNP ,\, the\DT avatar\NN land\NN of\IN Lord\NNP Shrikrishna\NNP ,\, on\IN the\DT banks\NNS of\IN the\DT Yamuna\NNP .\.
+htd36	Mathura\NNP station\NN is\VBZ on\IN the\DT North-Eastern\NNP Railway\NNP 's\POS line\NN going\VBG to\TO Gorakhpur\NNP from\IN Agra\NNP Fort\NNP and\CC on\IN the\DT Western\NNP Railway\NNP 's\POS Mumbai-Kota-Delhi\NNP line\NN .\.
+htd37	Garhmukteshwar\NNP is\VBZ a\DT sacred\JJ pilgrimage\NN of\IN the\DT Hindus\NNPS .\.
+htd38	Let\VB us\PRP go\VB to\TO the\DT Ganges\NNP Fair\NNP of\IN Garh\NNP Mukteshwar\NNP .\.
+htd39	The\DT history\NN of\IN North\NNP India\NNP 's\POS famous\JJ and\CC ancient\JJ religious\JJ fair\NN held\VBD every\DT year\NN on\IN the\DT occasion\NN of\IN Kartik\NNP Poornima\NNP on\IN the\DT banks\NNS of\IN the\DT Fallen\NNP Purgator\NNP Ganges\NNP in\IN the\DT Garh\NNP Mukteshwar\NNP of\IN Ghaziabad\NNP district\NN .\.
+htd40	There\EX is\VBZ full\JJ fervor\NN of\IN the\DT fair\NN this\DT time\NN also\RB in\IN Garh\NNP Mukteshwar\NNP and\CC huge\JJ crowd\NN of\IN devotees\NNS is\VBZ gathering\VBG for\IN the\DT holy\JJ dip\NN .\.
+htd41	The\DT holy\JJ dip\NN is\VBZ on\IN 13\CD November\NNP .\.
+htd42	It\PRP is\VBZ said\VBD about\IN Garh\NNP Mukteshwar\NNP that\IN on\IN looking\VBG at\IN the\DT detriments\NNS of\IN the\DT war\NN and\CC genocide\NN after\IN the\DT disastrous\JJ war\NN of\IN the\DT Mahabharata\NNP Yogiraj\NNP Krishna\NNP ,\, Dharmaraja\NNP Yudhisthir\NNP and\CC Arjun\NNP regretted\VBD hugely\RB .\.
+htd43	They\PRP began\VBD thinking\VBG as\IN to\TO what\WP should\MD be\VB done\VBN for\IN the\DT peace\NN of\IN the\DT innumerable\JJ relatives\NNS ,\, colleagues\NNS and\CC innocent\JJ people\NNS killed\VBN in\IN the\DT war\NN .\.
+htd44	Then\RB all\DT decided\VBD unanimously\RB .\.
+htd45	All\PDT the\DT sanskars\NNS will\MD get\VB completed\VBN with\IN worship\NN of\IN the\DT Mukteshwar\NNP Mahadev\NNP at\IN a\DT place\NN called\VBN Shiv\NNP Ballabhapur\NNP established\VBN by\IN Lord\NNP Parashuram\NNP in\IN Khandavi\NNP forest\NN .\.T yajna\NN and\CC a\DT bath\NN at\IN the\DT fallen\JJ purgator\NN Ganges\NNP and\CC offering\VBG a\DT pindadan\NN there\RB .\.
+htd46	It\PRP is\VBZ to\TO be\VB noted\VBN that\IN it\PRP is\VBZ Shiv\NNP Ballabhpur\NNP that\WDT is\VBZ known\VBN as\IN Garh\NNP Mukteshwar\NNP now\RB .\.
+htd47	Maharaj\NNP Shivi\NNP ,\, the\DT ancestor\NN of\IN Lord\NNP Rama\NNP ,\, had\VBD spent\VBN his\PRP$ exile\NN at\IN Garh\NNP Muktesher\NNP .\.
+htd48	Maharaj\NNP Shivi\NNP had\VBD Lord\NNP Parashuram\NNP establish\VB the\DT Shiva\NNP Temple\NNP here\RB .\.
+htd49	At\IN that\DT time\NN Garh\NNP Mukteshwar\NNP was\VBD the\DT main\JJ center\NN of\IN Ballabh\NNP sect\NN .\.
+htd50	Garh\NNP Mukteshwar\NNP was\VBD named\VBN as\IN Shiv\NNP Ballabhpur\NNP .\.
+htd51	The\DT description\NN of\IN Garh\NNP Mukteshwar\NNP is\VBZ found\VBN in\IN the\DT Shiva\NNP Purana\NNP .\.
+htd52	A\DT yajna\NN was\VBD conducted\VBN from\IN the\DT eleventh\JJ day\NN to\TO the\DT fourteenth\JJ day\NN of\IN the\DT fortnight\NN in\IN Garh\NNP Mukteshwar\NNP for\IN the\DT peace\NN of\IN the\DT souls\NNS killed\VBN in\IN the\DT war\NN of\IN the\DT Mahabharata\NNP .\.
+htd53	On\IN the\DT evening\NN of\IN the\DT fourteenth\JJ day\NN after\IN the\DT end\NN of\IN the\DT yajna\NN tributes\NNS were\VBD offered\VBN to\TO those\DT souls\NNS by\IN offering\VBG earthen\JJ lamps\NNS in\IN the\DT Ganges\NNP .\.
+htd54	Next\JJ day\NN on\IN the\DT full\JJ moon\NN morning\NN ,\, having\VBG bathed\VBN in\IN the\DT Ganges\NNP ,\, all\DT offered\VBN prayers\NNS and\CC religious\JJ stories\NNS .\.
+htd55	Every\DT year\NN devotees\NNS in\IN lacs\NNS of\IN numbers\NNS come\VBN to\TO Garh\NNP Mukteshwar\NNP to\TO take\VB a\DT bath\NN in\IN the\DT blemish-destroyer\NN ,\, sin-purgator\JJ Ganges\NNP and\CC to\TO offer\VB earthen\JJ lamps\NNS for\IN the\DT peace\NN of\IN the\DT souls\NNS of\IN their\PRP$ kins\NNS .\.
+htd56	Innumerous\JJ people\NNS offer\VBP earthen\JJ lamps\NNS in\IN the\DT Ganges\NNP as\IN tribute\NN to\TO their\PRP$ kins\NNS on\IN the\DT evening\NN of\IN the\DT fourteenth\JJ day\NN of\IN the\DT fortnight\NN .\.
+htd57	During\IN that\DT time\NN lamps\NNS flowing\VBG with\IN the\DT stream\NN of\IN the\DT Ganges\NNP appear\VB very\JJ peace\NN giving\VBG and\CC charming\JJ .\.
+htd58	There\EX are\VBP several\JJ places\NNS of\IN religious\JJ importance\NN in\IN Garh\NNP Mukteshwar\NNP such\JJ as\IN Nahush\NNP well\RB ,\, the\DT temple\NN of\IN the\DT Mukteshwar\NNP Mahadev\NNP ,\, the\DT Badrinath\NNP Templeh\NNP .\.
+htd59	Custom\NNP is\VBZ that\IN the\DT Badrinath\NNP Temple\NNP is\VBZ opened\VBN during\IN the\DT prayer\NN time\NN only\RB .\.
+htd60	This\DT temple\NN is\VBZ opened\VBN only\RB once\RB in\IN a\DT year\NN for\IN the\DT whole\JJ day\NN during\IN the\DT birth\NN anniversary\NN of\IN Parashuram\NNP on\IN Akshaya\NNP Tritiya\NNP .\.
+htd61	There\EX is\VBZ a\DT sand\NN filled\VBN field\NN in\IN front\NN of\IN the\DT Mukteshwar\NNP Mahadev\NNP temple\NN which\WDT is\VBZ known\VBN as\IN Meerabai\NNP Ki\NNP Reti\NNP .\.
+htd62	It\PRP is\VBZ believed\VBN that\IN Meerabai\NNP had\VBD come\VBN to\TO bathe\VB here\RB once\RB .\.
+htd63	It\PRP is\VBZ said\VBD that\IN once\RB Parvatiji\NNP asked\VBD a\DT question\NN to\TO Shankarji\NNP .\.
+htd64	Lord\NNP ,\, advise\VBP a\DT solution\NN and\CC place\NN by\IN which\WDT a\DT living\NN being\NN gets\VBZ relieved\VBN from\IN several\JJ ills\NNS and\CC sins\NNS .\.
+htd65	What\WP should\MD they\PRP do\VB so\RB that\IN they\PRP get\VBP your\PRP$ affection\NN .\.
+htd66	On\IN this\DT Shankarji\NNP said\VBD that\IN O\NNP Devi\NNP ,\, all\PDT the\DT pilgrimages\NNS give\VBP the\DT fruits\NNS of\IN meritorious\JJ actions\NNS in\IN the\DT Satayuga\NNP ,\, Treta\NNP in\IN Pushkar\NNP ,\, in\IN Dwapar\NNP Kurukshetra\NNP pilgrimage\NN gives\VBZ the\DT fruits\NNS of\IN meritorious\JJ actions\NNS and\CC in\IN Kalikala\NNP achievements\NNS of\IN the\DT fruits\NNS of\IN meritorious\JJ actions\NNS is\VBZ only\RB through\IN the\DT Ganga\NNP bath\NN .\.
+htd67	There\EX is\VBZ a\DT place\NN called\VBN Shiva\NNP Ballabhpur\NNP on\IN the\DT banks\NNS of\IN the\DT Ganges\NNP .\.
+htd68	Shiva\NNP resides\VBZ in\IN the\DT place\NN called\VBN Shiva\NNP Ballabhpur\NNP .\.
+htd69	Shiva\NNP Ballabhpur\NNP is\VBZ very\RB favorite\JJ to\TO Shivaji\NNP .\.
+htd70	Shiva\NNP Ballabhpur\NNP is\VBZ located\VBN in\IN the\DT east\JJ direction\NN of\IN Hastinapur\NNP in\IN the\DT country\NN of\IN Aryavarta\NNP of\IN Jambudweep\NNP .\.
+htd71	Situated\VBN on\IN the\DT banks\NNS of\IN the\DT Ganges\NNP Shiva\NNP Ballabhpur\NNP is\VBZ satisfying\VBG to\TO the\DT deities\NNS ,\, sages\NNS and\CC ancestors\NNS .\.
+htd72	Shiva\NNP Ballabhpur\NNP area\NN is\VBZ favorite\JJ to\TO me\PRP ,\, like\IN Kashi\NNP .\.
+htd73	The\DT Ganges\NNP Temple\NNP in\IN Garh\NNP Mukteshwar\NNP is\VBZ built\VBN at\IN a\DT very\RB great\JJ height\NN .\.
+htd74	Besides\IN the\DT Mother\NNP Ganges\NNP temple\NN there\EX is\VBZ also\RB a\DT statue\NN of\IN Brahmaji\NNP installed\VBN in\IN Garh\NNP Mukteshwar\NNP .\.
+htd75	There\EX is\VBZ also\RB such\JJ a\DT stone\NN in\IN the\DT Ganges\NNP Temple\NNP of\IN Garh\NNP Mukteshwar\NNP ,\, looking\VBG closely\RB at\IN which\WDT the\DT shape\NN of\IN Lord\NNP Shiva\NNP appears\VBZ to\TO be\VB on\IN it\PRP .\.
+htd76	At\IN one\CD time\NN there\RB used\VBN to\TO be\VB 101\CD steps\NNS to\TO reach\VB the\DT Ganga\NNP Temple\NNP of\IN Garh\NNP Mukteshwar\NNP .\.
+htd77	But\CC now\RB there\EX are\VBP only\RB 86\CD steps\NNS left\VBN in\IN the\DT Ganges\NNP Temple\NNP of\IN Garh\NNP Mukteshwar\NNP .\.
+htd78	It\PRP is\VBZ said\VBD that\IN till\IN 1937\CD the\DT Ganges\NNP used\VBD to\TO flow\VB touching\VBG the\DT steps\NNS of\IN the\DT Ganges\NNP Temple\NNP of\IN Garh\NNP Mukteshwar\NNP .\.
+htd79	But\CC gradually\RB Ganga-ji\JJ started\VBD leaving\VBG the\DT place\NN .\.
+htd80	Now\RB the\DT bank\NN of\IN the\DT Ganges\NNP is\VBZ about\RB 10\CD kilometres\NNS away\RB from\IN this\DT temple\NN .\.
+htd81	A\DT fair\NN is\VBZ organized\VBN on\IN the\DT sandy\JJ fields\NNS of\IN the\DT banks\NNS of\IN the\DT Ganges\NNP .\.
+htd82	One\CD whole\JJ city\NN of\IN tents\NNS gets\VBZ settled\VBN on\IN the\DT banks\NNS during\IN the\DT fair\NN .\.
+htd83	The\DT venue\NN of\IN the\DT fair\NN is\VBZ about\IN 90\CD kilometres\NNS from\IN Delhi\NNP .\.
+htd84	One\CD can\MD easily\RB reach\VB the\DT fair\JJ ground\NN through\IN car\NN etcetera\NN .\.
+htd85	Earlier\JJR people\NNS had\VBD to\TO go\VB on\IN foot\NN to\TO the\DT fair\JJ venue\NN in\IN Garh\NNP Mukteshwar\NNP .\.
+htd86	But\CC now\RB there\EX are\VBP several\JJ ways\NNS of\IN travel\NN available\JJ .\.
+htd87	Many\JJ people\NNS reach\VBP the\DT fair\JJ venue\NN by\IN buggi\NNS ,\, tractor\NN trollies\NNS ,\, cars\NNS and\CC other\JJ resources\NNS .\.
+htd88	It\PRP is\VBZ estimated\VBN that\IN every\DT year\NN about\IN twenty\CD lac\NN people\NNS come\VBP to\TO Garh\NNP Mukteshwar\NNP for\IN holy\JJ bath\NN in\IN the\DT Ganges\NNP during\IN the\DT fair\NN in\IN Garh\NNP Mukteshwar\NNP .\.
+htd89	Most\JJS of\IN the\DT devotees\NNS coming\VBG to\TO participate\VB in\IN the\DT fair\JJ stay\NN in\IN the\DT tents\NNS only\RB .\.
+htd90	Apart\RB from\IN the\DT fair\NN ,\, people\NNS coming\VBG during\IN the\DT general\JJ days\NNS stay\VBP in\IN the\DT dharamashalas\NNS built\VBN around\IN the\DT Braj\NNP Ghat\NNP .\.
+htd91	As\IN such\JJ food\NN items\NNS are\VBP found\VBN in\IN several\JJ shops\NNS here\RB .\.
+htd92	But\CC devotees\NNS coming\VBG in\IN the\DT form\NN of\IN groups\NNS manage\VBP their\PRP$ food\NN etcetera\NN themselves\PRP .\.
+htd93	The\DT fair\NN organized\VBN on\IN the\DT eve\NN of\IN Kartik\NNP Poornima\NNP on\IN the\DT banks\NNS of\IN the\DT Ganges\NNP in\IN Garh\NNP Mukteshwar\NNP is\VBZ one\CD of\IN the\DT biggest\JJS fairs\NNS .\.
+htd94	Fair\NNP takes\VBZ place\NN on\IN the\DT banks\NNS of\IN the\DT Ganges\NNP in\IN an\DT area\NN of\IN about\IN 11\CD kilometres\NNS .\.
+htd95	This\DT time\NN the\DT organization\NN of\IN fair\NN is\VBZ being\VBG done\VBN by\IN dividing\VBG the\DT fair\JJ venue\NN into\IN 20\CD sectors\NNS .\.
+htd96	For\IN security\NN reasons\NNS more\JJR police\NN forces\NNS have\VBP been\VBN deployed\VBN in\IN Garh\NNP Mukteshwar\NNP than\IN earlier\RBR .\.
+htd97	Close\JJ circuit\NN TVs\NNS have\VBP also\RB been\VBN installed\VBN at\IN main\JJ places\NNS .\.
+htd98	Several\JJ ghats\NNS have\VBP also\RB been\VBN built\VBN for\IN the\DT bath\NN in\IN the\DT Ganges\NNP .\.
+htd99	Hastinapur\NNP has\VBZ a\DT historical\JJ importance\NN .\.
+htd100	Jain\NN community\NN has\VBZ special\JJ importance\NN for\IN all\DT castes\NNS of\IN North\NNP India\NNP .\.

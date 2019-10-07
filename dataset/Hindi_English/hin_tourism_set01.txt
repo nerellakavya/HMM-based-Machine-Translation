@@ -1,0 +1,101 @@
+﻿id	value
+htd1	सप्तपुरियों\N_NNP के\PSP दर्शन\N_NN से\PSP मिलता\V_VM है\V_VAUX मोक्ष\N_NN !\RD_PUNC
+htd2	हिंदू\N_NN धर्म\N_NN में\PSP तीर्थ\N_NN का\PSP बड़ा\JJ महत्व\ है\V_VAUX ।\RD_PUNC
+htd3	यूँ\RP_RPD तो\RP_RPD हर\QT_QTF तीर्थ\N_NN बड़ा\JJ और\CC_CCD अहम\JJ है\V_VAUX ,\RD_PUNC लेकिन\CC_CCS सात\QT_QTC स्थानों\N_NN की\PSP बड़ी\JJ महत्ता\N_NN और\CC_CCD मान्यता\N_NN है\V_VAUX ।\RD_PUNC
+htd4	ये\DM_DMD सातों\QT_QTC धर्मस्थल\N_NN सात\QT_QTC नगरों\N_NN या\RP_RPD सप्तपुरियों\N_NNP के\PSP रूप\N_NN में\PSP ग्रंथों\N_NN में\PSP वर्णित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd5	ऐसा\DM_DMD कहा\V_VM गया\V_VAUX है\V_VAUX कि\CC_CCS चतुर्मास\N_NNP में\PSP इन\DM_DMD सप्तपुरियों\N_NNP का\PSP दर्शन\N_NN मोक्ष\N_NN प्रदान\N_NN करने\V_VM वाला\PSP होता\V_VM है\V_VAUX ।\RD_PUNC
+htd6	इसका\DM_DMD नाम\N_NN बनारस\N_NNP या\RP_RPD वाराणसी\N_NNP भी\RP_RPD है\V_VAUX ।\RD_PUNC 
+htd7	गंगा\N_NNP किनारे\N_NST यह\PRP भगवान\N_NN शंकर\N_NNP की\PSP प्रसिद्ध\JJ पुरी\N_NN है\V_VAUX ।\RD_PUNC
+htd8	मुगल\N_NNP सराय\N_NNP से\PSP अमृतसर\N_NNP तथा\CC_CCD देहरादून\N_NNP जाने\V_VM वाली\PSP मुख्य\N_NN रेलवे\N_NN लाइन\N_NN पर\PSP मुगल\N_NNP सराय\N_NNP स्टेशन\N_NN से\PSP 7\QT_QTC मील\N_NNP पर\PSP काशी\N_NNP और\CC_CCD उससे\PR_PRP 4\QT_QTC मील\N_NN आगे\N_NST बनारस\N_NNP छावनी\N_NN स्टेशन\N_NN है\V_VAUX ।RD_PUNC
+htd9	इलाहाबाद\N_NNP के\PSP प्रयाग\N_NNP स्टेशन\N_NN से\PSP भी\RP_RPD एक\QT_QTC सीधी\JJ लाइन\N_NN काशी\N_NNP होते\V_VM हुए\V_VAUX बनारस\N_NNP छावनी\N_NN तक\PSP जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd10	पूर्वोत्तर\N_NNP रेलवे\N_NN की\PSP एक\QT_QTC लाइन\N_NN भटनी\N_NNP से\PSP तथा\CC_CCD दूसरी\QT_QTO छपरा\N_NNP से\PSP इलाहाबाद\N_NNP सिटी\N_NN तक\PSP जाती\V_VM है\V_VAUX ।RD_PUNC
+htd11	इस\DM_DMD रास्ते\N_NN से\PSP भी\RP_RPD बनारस\N_NNP सिटी\N_NN होते\V_VM हुए\V_VAUX छावनी\N_NNP जा\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC 
+htd12	पतित\JJ पावनी\JJ गंगा\N_NN हरिद्वार\N_NNP में\PSP पर्वतीय\JJ क्षेत्र\N_NN को\PSP छोड़कर\V_VM समतल\JJ भूमि\N_NN में\PSP प्रवेश\V_VM करती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd13	इसलिए\RB हरिद्वार\N_NNP को\PSP गंगा\N_NNP द्वार\N_NN भी\RP_RPD कहते\V_VM हैं\V_VAUX ।\RD_PUNC 
+htd14	हरिद्वार\N_NNP में\PSP प्रतिदिन\QT_QTF शाम\N_NN को\PSP होने\V_VM वाली\PSP माँ\NN गंगा\NNP की\PSP आरती\NN के\PSP समय\N_NN श्रद्धालुओं\N_NN की\PSP भीड़\N_NN उमड़\V_VM पड़ती\V_VAUX है\V_VAUX ।\RD_PUNC 
+htd15	गंगा\N_NNP नदी\N_NN पर\PSP तैरती\V_VM दीपमालाओं\N_NN का\PSP दृश्य\N_NN देखते\V_VM ही\RP_RPD बनता\V_VM है\V_VAUX  ।\RD_PUNC 
+htd16	उत्तर\N_NNP रेलवे\N_NN की\PSP मुगल\N_NNP सराय\N_NNP से\CC_CCS अमृतसर\N_NNP जाने\N_NN वाली\PSP मुख्य\JJ लाइन\N_NN पर\PSP स्टेशन\N_NN है\V_VAUX ।\RD_PUNC 
+htd17	लक्सर\N_NNP से\PSP एक\QT_QTC लाइन\N_NN हरिद्वारN_NNP तक\PSP गई\V_VM है\V_VAUX ।\RD_PUNC 
+htd18	प्राचीन\JJ काल\N_NN में\PSP पितामह\N_NN ब्रह्माN_NN जी\ ने\PSP कांची\N_NNP में\PSP माँ\N_NN भगवती\N_NNP के\PSP दर्शन\N_NNP के\PSP लिए\PSP दुष्कर\JJ तपस्या\N_NN की\V_VM थी\V_VAUX ।\RD_PUNC 
+htd19	तब\N_NST महालक्ष्मी\N_NNP हाथ\N_NNP में\PSP कमल\N_NNP धारण\N_NN किए\V_VM हुए\V_VAUX उनके\PR_PRP सामने\N_NST प्रकट\N_NN हुई\V_VM थीं\V_VAUX ।\RD_PUNC
+htd20	दक्षिण\N_NNP रेलवे\N_NN के\PSP चेन्नै\N_NNP स्टेशन\N_NNP से\PSP धनुष्कोटि\N_NNP जाने\N_NN वाली\PSP मुख्य\JJ लाइन\N_NN पर\PSP चेन्नै\N_NNP से\PSP 35\QT_QTC मील\N_NN की\PSP दूरी\N_NN पर\PSP चेंगलपट\N_NNP स्टेशन\N_NN है\V_VAUX ।\RD_PUNC
+htd21	चेंगलपट\N_NNP स्टेशन\N_NN से\PSP एक\QT_QTC लाइन\N_NN अरकोनम\N_NNP तक\PSP जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd22	चेंगलपट\N_NNP स्टेशन\N_NN से\PSP अरकोनम\N_NNP जाने\N_NN वाली\PSP लाइन\N_NN पर\PSP कांजीवरम\N_NNP स्टेशन\N_NN है\V_VAUX ।\RD_PUNC
+htd23	स्टेशन\N_NN का\PSP नाम\N_NN कांजीवरम\N_NNP जरूर\N_NN है\V_VAUX, किंतु\CC_CCD नगर\N_NN का\PSP नाम\N_NN कांचीपुरम\N_NNP है\V_VAUX ।RD_PUNC
+htd24	’\RD_PUNC अयोध्या\N_NNP ’\RD_PUNC भगवान\N_NN श्री\N_NN राम\N_NNP के\PSP अवतार\N_NN  की\PSP पवित्र\JJ भूमि\N_NN है\V_VAUX। \RD_PUNC
+htd25	अयोध्या\N_NNP पवित्र\JJ नदी\N_NN सरयू\N_NNP के\PSP तट\N_NN पर\PSP स्थित\N_NN है\V_VAUX ।\RD_PUNC
+htd26	उत्तर\N_NNP रेलवे\N_NN की\PSP मुगलसराय\N_NNP -\RD_PUNC लखनऊ\N_NNP लाइन\N_NN के\PSP मुगल\N_NNP सराय\N_NNP स्टेशन\N_NN से\PSP 128\QT_QTC मील\N_NN की\PSP दूरी\N_NN पर\PSP अयोध्या\N_NNP स्टेशन\N_NN है\V_VAUX ।\RD_PUNC
+htd27	शिप्रा\N_NNP अथवा\CC_CCD क्षिप्रा\N_NNP नदी\N_NN के\PSP तट\N_NN पर\PSP बसी\V_VM महाकाल\N_NNP की\PSP यह\DM_DMR उज्जैन\N_NNP नगरी\N_NN पतित\JJ पावनी\JJ है\V_VAUX। \RD_PUNC
+htd28	कहते\V_VM हैं\V_VAUX कि\CC_CCS उज्जैन\N_NNP में\PSP महाकाल\N_NNP को\PSP नमस्कार\N_NN कर\V_VM लेने\V_VM पर\CC_CCS फिर\RP मृत्यु\N_NN की\PSP चिंता\N_NN नहीं\RP_NEG रहती\V_VM ।\RD_PUNC
+htd29	मध्य\N_NNP रेलवे\NNP की\PSP मुंबई-भोपाल-दिल्ली\N_NNP लाइन\N_NN के\PSP भोपाल\N_NNP स्टेशन\N_NN से\PSP एक\QT_QTC लाइन\N_NN उज्जैन\N_NNP जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd30	पश्चिम\N_NNP रेलवे\N_NNP की\PSP मुंबई-कोटा-दिल्ली\N_NNP लाइन\N_NN पर\CC_CCS नागदा\N_NNP स्टेशन\N_NN से\PSP एक\QT_QTC बड़ी\JJ लाइन\N_NN भी\RP_RPD उज्जैन\N_NNP तक\PSP गई\V_VM है\V_VAUX ।\RD_PUNC
+htd31	उक्त\JJ लाइन\N_NN के\PSP महू\N_NNP स्टेशन\N_NNP से\PSP भी\RP_RPD एक\QT_QTC लाइन\N_NN उज्जैन\N_NNP को\PSP गई\V_VM है\V_VAUX ।\RD_PUNC
+htd32	द्वारका\N_NNP चार\QT_QTC धामों\N_NN में\PSP एक\QT_QTC धाम\N_NN भी\RP_RPD है\V_VAUX ।\RD_PUNC
+htd33	भगवान\N_NNP कृष्ण\N_NNP ने\PSP इसे\PR_PRL समुद्र\N_NN के\PSP बीच\N_NST में\PSP विशेष\JJ रूप\N_NN से\PSP बसाया\V_VM था\V_VAUX ।\RD_PUNC
+htd34	पश्चिम\N_NNP रेलवे\N_NNP की\PSP सुरेंद्रनगर-ओखा\N_NNP पोर्ट\N_NN लाइन\N_NN पर\PSP स्थित\JJ यह\DM_DMR नगर\N_NN समुद्र\N_NN किनारे\N_NN का\PSP स्टेशन\N_NN है\V_VAUX ।\RD_PUNC
+htd35	यमुना\N_NNP तट\N_NN पर\PSP भगवान\N_NN श्रीकृष्ण\N_NNP की\PSP अवतार\N_NN भूमि\N_NN का\PSP यह\DM_DMR पवित्र\JJ नगर\N_NN मथुरा\N_NNP है\V_VAUX ।\RD_PUNC
+htd36	पूर्वोत्तर\N_NNP रेलवे\N_NNP की\PSP आगरा\N_NNP फोर्ट\N_NN से\PSP गोरखपुर\N_NNP जाने\N_NN वाली\PSP लाइन\N_NN तथा\CC_CCS पश्चिम\N_NNP रेलवे\N_NNP की\CC_CCS मुंबई-कोटा-दिल्ली\N_NNP लाइन\N_NN पर\CC_CCS मथुरा\N_NNP स्टेशन\N_NN है\V_VAUX ।\RD_PUNC
+htd37	गढ़-मुक्तेश्वर\N_NNP हिंदुओं\N_NN का\PSP पावन\JJ तीर्थ\N_NN है\V_VAUX ।\RD_PUNC
+htd38	चलें\V_VM गढ़\N_NNP मुक्तेश्वर\N_NP का\PSP गंगा\N_NNP मेला\N_NN ।\RD_PUNC
+htd39	गाजियाबाद\N_NNP जिले\N_NN के\PSP गढ़\NNP मुक्तेश्वर\N_NNP में\PSP पतित\JJ पावनी\JJ गंगा\N_NNP के\PSP तट\N_NN पर\PSP हर\QT_QTF साल\N_NN कार्तिक\N_NNP पूर्णिमा\N_NN के\PSP अवसर\N_NN पर\PSP लगने\N_NN वाले\PSP उत्तर\N_NNP भारत\N_NNP के\PSP प्रसिद्ध\JJ और\CC_CCD प्राचीन\JJ धार्मिक\JJ मेले\N_NN का\PSP इतिहास\N_NN लगभग\RB पाँच\QT_QTC हजार\QT_QTC वर्ष\N_NN पुराना\JJ है\V_VAUX ।\RD_PUNC
+htd40	इस\PR_PRL बार\PR भी\RP_RPD गढ़\N_NNP मुक्तेश्वर\N_NNP में\PSP मेले\N_NN की\PSP भरपूर\JJ गहमागहमी\N_NN है\V_VAUX और\CC_CCD मुख्य\JJ स्नान\N_NN के\PSP लिए\PSP श्रद्धालुओं\N_NN की\PSP भारी\JJ भीड़\N_NN जुट\VM रही\V_VAUX है\V_VAUX ।\RD_PUNC
+htd41	मुख्य\JJ स्नान\N_NN 13\QT_QTC नवंबर\N_NNP को\PSP है\V_VAUX ।\RD_PUNC
+htd42	गढ़\N_NNP मुक्तेश्वर\N_NNP के\PSP विषय\N_NN में\PSP कहाV_VM जाताV_VAUX है\V_VAUX कि\CC_CCS महाभारत\N_NNP के\PSP विनाशकारी\JJ युद्ध\N_NN के\PSP बाद\N_NST योगीराज\N_NNP श्रीकृष्ण\N_NNP ,\RD_PUNC धर्मराज\N_NNP युधिष्ठिर\N_NNP व\CC_CCS अर्जुन\N_NNP के\PSP मन\N_NN में\PSP युद्ध\N_NN की\PSP विभीषिका\N_NN और\CC_CCD नरसंहार\N_NN को\PSP देखकर\V_VM भारी\JJ ग्लानि\N_NN हुई\V_VM ।\RD_PUNC
+htd43	वे\PR_PRP इस\DM_DMD सोच\N_NN  में\PSP पड़\V_VM गए\V_VAUX कि\CC_CCS युद्ध\N_NN में\PSP मारे\V_VM गए\V_VAUX असंख्य\QT_QTF कुटुम्बियों\N_NN ,\RD_PUNC बंधुओं\N_NN व\CC_CCS निर्दोष\JJ लोगों\N_NN की\PSP आत्मा\N_NN की\PSP शांति\N_NN के\PSP लिए\PSP क्या\PR_PRQ उपाय\N_NN या\CC_CCS संस्कार\N_NN किया\V_VM जाए\V_VAUX ।\RD_PUNC
+htd44	तब\PR_PRL सबने\PR_PRL एक\QT_QTC राय\N_NN से\PSP निर्णय\N_NN लिया\V_VM था\V_VAUX ।\RD_PUNC
+htd45	खांडवी\N_NNP वन\N_NN में\PSP भगवान\N_NN परशुराम\N_NNP द्वारा\PSP स्थापित\N_NN शिव\N_NNP बल्लभपुर\N_NNP नामक\N_NN स्थान\N_NN पर\PSP मुक्तेश्वर\N_NNP महादेव\N_NNP की\PSP पूजा\N_NN यज्ञ\N_NN तथा\CC_CCD पतित\JJ पावनी\JJ गंगा\N_NNP में\PSP स्नान\N_NN करने\V_VM और\CC_CCD वहाँ\DM_DMD पिंडदान\N_NN करने\V_VM से\PSP सभी\QT_QTF संस्कार\N_NN पूर्ण\N_NN हो\V_VM जाएँगे\V_VAUX ।\RD_PUNC
+htd46	ज्ञात\JJ रहे\V_VM कि\CC_CCS शिव\N_NNP बल्लभपुर\N_NNP को\PSP ही\RP_PRD अब\N_NST गढ़\N_NNP मुक्तेश्वर\N_NNP के\PSP नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd47	भगवान\N_NN राम\N_NNP के\PSP पूर्वज\N_NN महाराज\N_NNP शिवि\N_NNP ने\PSP अपना\PR_PRF वानप्रस्थ\N_NN गढ़\N_NNP मुक्तेश्वर\N_NNP में\PSP ही\RP_PRD व्यतीत\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd48	महाराज\N_NN शिव\N_NNP ने\PSP भगवान\N_NNP परशुराम\N_NNP से\PSP यहाँ\DM_DMD शिव\N_NNP मंदिर\N_NN की\PSP स्थापना\N_NN कराई\V_VM थी\V_VAUX ।\RD_PUNC
+htd49	उस\PR_PRP समय\N_NN गढ़\N_NNP मुक्तेश्वर\N_NNP बल्लभ\N_NNP संप्रदाय\N_NN का\PSP मुख्य\JJ केन्द्र\N_NN था\V_VAUX ।\RD_PUNC
+htd50	गढ़\N_NNP मुक्तेश्वर\N_NNP का\PSP नाम\N_NN शिव\N_NNP बल्लभपुर\N_NNP पड़ा\V_VM ।\RD_PUNC
+htd51	गढ़\N_NNP मुक्तेश्वर\N_NNP का\PSP वर्णन\JJ शिव\N_NNP पुराण\N_NNP में\PSP मिलता\V_VM है\V_VAUX ।\RD_PUNC
+htd52	एकादशी\N_NNP से\PSP चतुर्दशी\N_NNP तक\PSP गढ़\N_NNP मुक्तेश्वर\N_NNP में\PSP महाभारत\N_NNP युद्ध\N_NN में\PSP मारे\V_VM गए\V_VAUX सभी\QT_QTF लोगों\N_NN की\PSP आत्मा\N_NN की\PSP शांति\N_NN के\PSP लिए\PSP यज्ञ\N_NN किया\V_VM गया\V_VM ।\RD_PUNC
+htd53	चतुर्दशी\N_NNP की\PSP संध्या\N_NN को\PSP यज्ञ\N_NN की\PSP समाप्ति\N_NN पर\PSP उन\PR_PRP आत्माओं\N_NN को\PSP गंगा\N_NNP में\PSP दीप\N_NN दान\V_VM कर\V_VAUX श्रद्धांजलि\N_NN अर्पित\N_NN की\PSP गई\V_VM ।\RD_PUNC
+htd54	अगले\N_NST दिन\N_NN प्रात:\N_NN पूर्णमासी\N_NN को\PSP सभी\QT_QTF ने\PSP गंगा\N_NNP स्नान\N_NN कर\V_VM पूजा-अर्चना\N_NN ,\RD_PUNC कथा\N_NN आदि\N_NN की\PSP ।\RD_PUNC
+htd55	प्रत्येक\QT_QTF वर्ष\N_NN लाखों\QT_QTC की\PSP संख्या\N_NN में\PSP श्रद्धालु\N_NN गढ़\N_NNP मुक्तेश्वर\N_NNP कार्तिक\N_NNP पूर्णिमा\N_NN पर\CC_CCS कलुष\N_NN विनाशनी\N_NN ,\RD_PUNC पापहरिणी\N_NN गंगा\N_NNP में\PSP स्नान\N_NN करने\V_VM और\CC_CCS अपने\PR_PRF स्वजनों\N_NN की\PSP आत्मा\N_NN की\PSP शांति\N_NN के\PSP लिए\PSP यहाँ\DM_DMD दीप\N_NN दान\N_NN करने\V_VM आते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd56	चतुर्दशी\N_NNP की\PSP शाम\N_NN को\PSP असंख्य\QT_QTF लोग\N_NN अपने\PR_PRF स्वजनों\N_NN को\PSP श्रद्धांजलि\N_NN देने\V_VM के\PSP लिए\PSP गंगा\N_NN में\PSP दीप\N_NN दान\V_VM करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd57	उस\PR_PRP वक्त\N_NN गंगा\N_NNP की\PSP धारा\N_NN के\PSP साथ\PSP बहते\V_VM दीपों\N_NN का\PSP दृश्य\N_NN बड़ा\JJ ही\RP_RPD शांतिदायक\N_NN और\CC_CCS मनोहारी\JJ प्रतीत\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd58	गढ़\N_NNP मुक्तेश्वर\N_NNP में\PSP धार्मिक\N_NN महत्व\JJ की\PSP कई\QT_QTF जगहें\N_NN हैं\V_VAUX ,\RD_PUNC जैसे\CC_CCS नहुष-कूप\N_NNP (\RD_SYM नक्का\N_NNP कुआँ\N_NNP )\RD_SYM ,\RD_PUNC मुक्तेश्वर\N_NNP महादेव\N_NNP का\PSP मंदिर\N_NN ,\RD_PUNC बद्रीनाथ\N_NNP मंदिर\N_NN आदि\N_NN ।\RD_PUNC 
+htd59	प्रथा\N_NN है\V_VAUX कि\CC_CCS बद्रीनाथ\N_NNP मंदिर\N_NN को\PSP केवल\QT_QTF आरती\N_NN के\PSP समय\N_NN ही\RP_RPD खोला\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd60	यह\DM_DMD मंदिर\N_NN साल\N_NN में\PSP केवल\QT_QTF एक\QT_QTC बार\N_NN अक्षय\N_NNP तृतीया\N_NNP को\PSP परशुराम\N_NNP जयंती\N_NN पर\PSP दिन\N_NN भर\RP_RPD दर्शनार्थियों\N_NN के\PSP लिए\PSP खोला\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC 
+htd61	मुक्तेश्वर\N_NNP महादेव\N_NN मंदिर\N_NN के\PSP सामने\N_NST विशाल\JJ रेतीला\JJ मैदान\N_NN है\V_VAUX ,\RD_PUNC उसे\PR_PRP मीराबाई\N_NNP की\PSP रेती\N_NN के\PSP नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd62	ऐसी\DM_DMD मान्यता\N_NN है\V_VAUX कि\CC_CCS एक\QT_QTC बार\N_NN मीराबाई\N_NNP यहाँ\DM_DMD गंगा\N_NNP स्नान\N_NN के\PSP लिए\PSP आई\V_VM थीं\V_VAUX ।\RD_PUNC
+htd63	कहते\V_VM हैं\V_VAUX कि\CC_CCS एक\QT_QTC बार\N_NN पार्वती\N_NNP जी\N_NN ने\PSP शंकर\N_NNP जी\N_NN से\PSP प्रश्न\N_NN किया\V_VM ।\RD_PUNC
+htd64	प्रभु\N_NN ऐसा\DM_DMD कोई\DM_DMI उपाय\N_NN और\CC_CCD स्थान\N_NN बताएँ\V_VM ,\RD_PUNC जिससे\PR_PRL संसार\N_NN में\PSP अनेक\QT_QTF व्याधियों\N_NN औरCC_CCD पापों\N_NN से\PSP त्रस्त\JJ जीव\N_NN को\PSP मुक्ति\N_NN मिले\V_VM ।\RD_PUNC 
+htd65	वे\PR_PRP ऐसा\DM_DMD क्या\PR_PRQ कर्म\N_NN करें\V_VM ,\RD_PUNC जिससे\PR_PRL उन्हें\PR_PRP आपका\PR_PRP स्नेह\N_NN मिले\V_VM ।\RD_PUNC 
+htd66	इस\PR_PRL पर\PSP शंकर\N_NNP जी\N_NN कहा\V_VM कि\CC_CCS हे\RP_INJ देवी\N_NN सतयुग\N_NN में\PSP सभी\QT_QTF तीर्थ\N_NN पुण्य\N_NN का\PSP फल\N_NN देते\V_VM हैं\V_VAUX ,\RD_PUNC त्रेता\N_NN में\PSP पुष्कर\N_NN ,\RD_PUNC द्वापर\N_NN में\PSP कुरुक्षेत्र\N_NNP तीर्थ\N_NN पुण्य\N_NN का\PSP फल\N_NN देते\V_VM हैं\V_VAUX और\CC_CCS कलिकालN_NN में\PSP केवल\QT_QTF गंगाN_NNP स्नान\N_NN से\PSP पुण्य\JJ फल\N_NN की\PSP प्राप्ति\N_NN है\V_VAUX ।\RD_PUNC
+htd67	गंगा\N_NNP तट\N_NN पर\PSP शिव\N_NN बल्लभपुर\N_NN नामक\N_NN एक\QT_QTC स्थान\N_NST है\V_VAUX ।\RD_PUNC
+htd68	शिव\N_NNP बल्लभपुर\N_NNP नामक\N_NN स्थान\N_NN में\PSP शिव\N_NNP निवास\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC 
+htd69	शिव\N_NNP बल्लभपुर\N_NNP शिवजी\N_NNP को\PSP अति\RP_INTF प्रिय\N_NN है\V_VAUX ।\RD_PUNC 
+htd70	शिव\N_NNP बल्लभपुर\N_NNP जम्बूद्वीपN_NN के\PSP आर्यावर्तN_NNP देश\N_NN में\PSP हस्तिनापुरN_NNP की\PSP पूर्वN_NST दिशाN_NN में\PSP स्थित\N_NN है\V_VAUX ।\RD_PUNC 
+htd71	गंगाN_NNP तटN_NN पर\PSP बसा\V_VM शिव\N_NNP बल्लभपुर\N_NNP देवों\N_NN ,\RD_PUNC ऋषियों\N_NN और\CC_CCD पितरों\N_NN को\PSP संतोष\N_NN देने\V_VM वाला\PSP है\V_VAUX ।\RD_PUNC 
+htd72	शिव\N_NNP बल्लभपुर\N_NNP क्षेत्र\N_NN मुझे\PR_PRP काशी\N_NNP के\PSP समान\JJ प्रिय\N_NN है\V_VAUX ।\RD_PUNC 
+htd73	गढ़\N_NNP मुक्तेश्वर\N_NNP में\PSP स्थित\V_VM गंगाN_NNP मंदिरN_NN काफी\QT_QTF ऊँचाई\N_NN पर\PSP बना\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC 
+htd74	गढ़\N_NNP मुक्तेश्वर\N_NNP के\PSP गंगा\N_NNP मंदिर\N_NN में\PSP गंगा\N_NNP मैया\N_NN के\PSP अतिरिक्त\N_NN ब्रह्मा\N_NNP जी\N_NN की\PSP मूर्ति\N_NN भी\RP_RPD लगी\V_VM हुई\V_VM है\V_VAUX ।\RD_PUNC 
+htd75	गढ़\N_NNP मुक्तेश्वर\N_NNP के\PSP गंगा\N_NNP मंदिर\N_NN में\PSP एक\QT_QTC ऐसा\DM_DMD पत्थर\N_NN भी\PR_PRD है\V_VAUX ,\RD_PUNC जिसे\PR_PRL ध्यानपूर्वक\N_NN देखने\V_VM से\PSP उस\PR_PRP पर\PSP भगवान\N_NN शिव\N_NNP की\PSP आकृति\N_NN का\PSP आभास\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd76	गढ़\N_NNP मुक्तेश्वर\N_NNP के\PSP गंगा\N_NNP मंदिर\N_NN में\PSP पहुँचने\V_VM के\PSP लिए\PSP कभी\N_NST 101\QT_QTC सीढ़ियाँ\N_NN हुआ\V_VM करती\V_VAUX थीं\V_VAUX ।\RD_PUNC 
+htd77	किंतु\CC_CCS गढ़\N_NN मुक्तेश्वर\N_NNP के\PSP गंगा\N_NNP मंदिर\N_NN में\PSP अब\N_NST 86\QT_QTC सीढ़ियाँ\N_NN ही\RP_RPD बची\V_VM हैं\V_VAUX ।\RD_PUNC
+htd78	बताते\V_VM हैं\V_VAUX कि\CC_CCS 1937\QT_QTC तक\PSP गंगा\N_NNP जी\N_NN गढ़\N_NN मुक्तेश्वर\N_NNP के\PSP गंगा\N_NNP मंदिर\N_NN की\PSP सीढ़ियों\N_NN को\PSP छूते\V_VM हुए\V_VAUX बहती\V_VM थीं\V_VAUX ।\RD_PUNC 
+htd79	लेकिन\CC_CCS धीरे-धीरे\RB गंगा\N_NNP जी\N_NN स्थान\N_NST छोड़ती\V_VM चली\V_VAUX गईं\V_VAUX ।\RD_PUNC
+htd80	अब\N_NST गंगा\N_NNP का\PSP तट\N_NN इस\DM_DMD मंदिर\N_NN से\PSP लगभग\N_NN 10\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VAUX ।\RD_PUNC
+htd81	गंगा\N_NNP तट\N_NN के\PSP रेतीले\JJ मैदान\N_NN में\PSP मेला\N_NN लगता\V_VM है\V_VAUX ।\RD_PUNC 
+htd82	मेले\N_NN के\PSP दौरान\N_NN तट\N_NN पर\PSP तंबुओं\N_NN का\PSP एक\QT_QTC पूरा\JJ नगर\N_NN बस\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd83	मेला\N_NN स्थल\N_NN दिल्ली\N_NNP से\PSP लगभग\N_NN 90\QT_QTC  किलोमीटर\N_NN पड़ता\V_VM है\V_VAUX ।\RD_PUNC
+htd84	मेला\N_NN स्थल\N_NN कार\N_NN आदि\N_NN से\PSP आराम\N_NN से\PSP पहुँचा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd85	गढ़\N_NNP मुक्तेश्वर\N_NN में\PSP पहले\N_NST मेला\N_NN स्थल\N_NN तक\PSP लोगों\N_NN को\PSP पैदल\N_NN ही\RP_RPD चलकर\V_VM जाना\V_VM पड़ताV_VAUX था\V_VAUX ।RD_PUNC
+htd86	लेकिन\CC_CCS अब\N_NST यातायात\N_NN के\PSP कई\QT_QTF साधन\N_NN उपलब्ध\N_NN हैं\V_VAUX ।\RD_PUNC
+htd87	अनेक\QT_QTF  लोग\N_NN भैंसा\N_NN बुग्गी\N_NN ,\RD_PUNC ट्रैक्टर\N_NN ट्रॉलियों\N_NN ,\RD_PUNC कार\N_NN और\CC_CCS अन्य\JJ साधनों\N_NN से\PSP मेला\N_NN स्थल\N_NN तक\PSP पहुँचते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd88	अनुमान\N_NN है\V_VAUX कि\CC_CCS  हर\QT_QTF साल\N_NN करीब\N_NN बीस\QT_QTC लाख\QT_QTC लोग\N_NN गढ़\N_NNP मुक्तेश्वर\N_NNP मेले\N_NN के\PSP दौरान\N_NN गंगा\N_NNP स्नान\N_NN करने\V_VM आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd89	मेले\N_NN में\PSP भाग\N_NN लेने\V_VM आए\V_VAUX ज्यादातर\RP_INTF श्रद्धालु\N_NN लगाए\V_VM गए\V_VAUX टेंटों\N_NN में\PSP ही\RP_RPD ठहरते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd90	मेले\N_NN के\PSP अलावा\CC_CCD सामान्य\JJ दिनों\N_NN में\PSP आने\N_NN वाले\PSP लोग\N_NN ब्रज\N_NNP घाट\N_NN के\PSP आसपास\N_NST बनी\V_VM धर्मशालाओं\N_NN में\PSP ठहरते\V_VM हैं\V_VAUX ।\RD_PUNC 
+htd91	यूँ\RP_RPD तो\RP_RPD यहाँ\DM_DMD खाने-पीने\N_NN का\PSP सामान\N_NN बहुत\QT_QTF सी\RP_RPD दुकानों\N_NN में\PSP मिल\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC 
+htd92	पर\CC_CCS समूह\N_NN के\PSP रूप\N_NN में\PSP मेले\N_NN में\PSP आने\V_VM वाले\PSP श्रद्धालु\N_NN अपने\PR_PRF भोजन\N_NN आदि\N_NN की\PSP व्यवस्था\N_NN स्वयं\PR_PRF ही\RP_RPD करते\V_VM हैं\V_VAUX ।\RD_PUNC 
+htd93	कार्तिक\N_NNP पूर्णिमा\N_NN के\PSP अवसर\N_NN पर\CC_CCS गढ़\N_NNP मुक्तेश्वर\N_NNP में\PSP गंगा\N_NNP तट\N_NN पर\PSP लगने\V_VM वाला\PSP मेला\N_NN विशालतम\JJ मेलों\N_NN में\PSP से\PSP एक\QT_QTC है\V_VAUX ।\RD_PUNC 
+htd94	मेला\N_NN गंगा\N_NNP के\PSP किनारे\N_NN लगभग\N_NN 11\QT_QTC किलोमीटर\N_NN के\PSP क्षेत्र\N_NN में\PSP लगता\V_VM है\V_VAUX ।\RD_PUNC 
+htd95	इस\PR_PRL वर्ष\N_NN मेले\N_NN का\PSP आयोजन\N_NN मेला\N_NN स्थल\N_NN को\PSP 20\QT_QTC सेक्टरों\N_NN में\PSP बाँट\V_VM कर\V_VAUX किया\V_VM जा\V_VM रहा\V_VAUX है\V_VAUX ।\RD_PUNC 
+htd96	सुरक्षा\N_NN के\PSP लिहाज\N_NN से\PSP गढ़\N_NNP मुक्तेश्वर\N_NNP में\PSP पहले\N_NST के\PSP मुकाबले\N_NN पुलिस\N_NN फोर्स\N_NN ज्यादा\QT_QTF लगाई\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC 
+htd97	प्रमुख\JJ स्थानों\N_NN पर\CC_CCS क्लोज\N_NN सर्किट\N_NN टीवी\N_NN कैमरे\N_NN भी\RD_RPD लगाए\V_VM गए\V_VAUX हैं\V_VAUX ।\RD_PUNC  
+htd98	गंगा\N_NNP स्नान\N_NN के\PSP लिए\PSP अनेक\QT_QTF घाट\N_NN भी\RP_RPD बनाए\V_VM गए\V_VAUX हैं\V_VAUX ।RD_PUNC  
+htd99	हस्तिनापुर\N_NNP का\PSP ऐतिहासिक\JJ महत्व\N_NN है\V_VAUX ।\RD_PUNC
+htd100	जैन\N_NNP जगत\N_NN से\PSP उत्तर\N_NN भारत\N_NNP वर्ष\N_NN की\PSP सम्पूर्ण\JJ जातियों\N_NN के\PSP लिए\PSP विशेष\JJ महत्व\N_NN है\V_VAUX ।\RD_PUNC 
