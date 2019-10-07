@@ -1,2 +1,4 @@
 # HMM-based-Machine-Translation
-An english to hindi machine translator that uses Viterbi algorithm
+
+- A HMM (Hidden Markov Model) based English to Hindi Statistical Translation Model which makes use of Viterbi Algorithm.
+- Used Nltk IBM2 Aligner and LM based outputs for emission and transition probabilities.
